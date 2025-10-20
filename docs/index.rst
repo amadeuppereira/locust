@@ -36,6 +36,7 @@ Running your Locust tests
     running-in-debugger
     running-in-docker
     running-without-web-ui
+    kubernetes-operator
 
 
 Running with Locust Cloud
